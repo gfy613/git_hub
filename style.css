@@ -1,0 +1,19 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.name{
+    text-align: left;
+}
+
+.bio {
+   text-align: left;
+}
